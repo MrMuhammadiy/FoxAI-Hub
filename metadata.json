@@ -1,0 +1,6 @@
+{
+  "name": "DailyHub",
+  "description": "A personal study, work, and lifestyle dashboard with an integrated FoxAI assistant powered by Gemini 3.5 Flash.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
